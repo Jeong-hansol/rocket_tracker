@@ -2,4 +2,4 @@
 
 http://tracker.autoplace.me
 
-![rocket](https://user-images.githubusercontent.com/67579529/90791432-2407e580-e344-11ea-93ea-332d203a2009.png)
+![tracker](https://user-images.githubusercontent.com/67579529/96588336-7f435d80-131e-11eb-8cb1-7f0a8838940d.png)
